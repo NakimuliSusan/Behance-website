@@ -433,9 +433,11 @@ i{
 }
 .second-person img{
     background-color:#e3fcfe;
+    border-radius:12px;
 }
 .third-person img{
     background-color:#fef5f0;
+    border-radius:12px;
 }
 .first-person h2 {
     margin-left:12%;
