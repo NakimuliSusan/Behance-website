@@ -282,17 +282,18 @@ i{
 }
 .best-1 p{
   
-    font-size:18px;
-    color:#adb2c5;
+    font-size:20px;
+    color:#5c5c5f;
     font-weight:bold;
 }
 .best-1 button{
     background-color:#3aa1ab;
     color:white;
     width:25%;
-    font-size:15px;
+    font-size:20px;
     padding:20px;
     margin-left:1%;
+    margin-top:15%;
 }
 .feedback{
     background-color:#f8feff;
@@ -486,13 +487,18 @@ i{
     color:#19191a;
     font-weight:500px;
 }
+.uni button{
+    margin-right:5%;
+    font-size:20px;
+    width:30%;
+}
 /* .uni button{
      margin-right:30%; */
 /* } */
 .input{
     width:60%;
     padding:20px;
-    margin-left:15%;
+    margin-left:10%;
     flex-grow:2;
     border:none;
 }
